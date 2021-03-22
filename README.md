@@ -10,6 +10,7 @@
 
 ## Back-end development languages
 - PHP/PDO
+- SQL
 
 ## Create the database and test the system in your home
 <p>
