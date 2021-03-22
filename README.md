@@ -13,17 +13,17 @@
 
 ## Create the database and test the system in your home
 <p>
-CREATE DATABASE loginpdo
-CHARSET utf8
-COLLATE utf8_general_ci;
-
-USE loginpdo;
-
-CREATE TABLE logins (
-	ID int primary key auto_increment,
-	email varchar(45) not null,
-	password varchar(12) not null
-) default charset = utf8;
+CREATE DATABASE loginpdo <br />
+CHARSET utf8 <br />
+COLLATE utf8_general_ci; <br />
+<br />
+USE loginpdo; <br />
+<br />
+CREATE TABLE logins (<br />
+	ID int primary key auto_increment,<br />
+	email varchar(45) not null,<br />
+	password varchar(12) not null<br />
+) default charset = utf8;<br />
 </p>
 
 ## Follow me
