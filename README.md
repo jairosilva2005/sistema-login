@@ -2,7 +2,7 @@
 <p align="center">Always learning 🚀</p>
 
 ## Bot
-- PiBot development tools(I created)
+- PiBot Development Tools(I created)
 
 ## Front-end development languages
 - JavaScript(Alerts)
